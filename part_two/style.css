@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    margin: 4px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.jamesdoe {
+    border: 2px solid black;
+    height: 250px;
+    width: 150px;
+    padding: 4px;
+}
+
+.jamesinfo {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+img {
+    height: 75px;
+    width: 75px;
+    margin-left: 10px;
+}
+
+.box {
+    border: 2px solid black;
+    width: 350px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user {
+    font-size: 20px;
+    margin-right: 75px;
+}
+
+#numberone {
+    margin-right: 3px;
+}
+
+#numbertwo {
+    margin-right: 3px;
+}
+
+#numberthree {
+    margin-right: 3px;
+}
+
+#likes {
+    margin-right: 35px;
+}
+
+button {
+    background-color: #f2c94e;
+    height: 30px;
+    width: 60px;
+    box-shadow: 2px 2px;
+}

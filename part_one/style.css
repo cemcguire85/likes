@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.box {
+    border: 2px solid black;
+    width: 350px;
+    padding: 10px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#user {
+    font-size: 20px;
+    margin-right: 75px;
+}
+
+#number {
+    margin-right: 3px;
+}
+
+#likes {
+    margin-right: 35px;
+}
+
+button {
+    background-color: #f2c94e;
+    height: 30px;
+    width: 60px;
+    box-shadow: 2px 2px;
+}
